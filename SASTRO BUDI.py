@@ -1,5 +1,5 @@
 # ====================================================
-# StoryBuddy v12.0 - Multi Kategori Kreatif Gemini AI
+# SASTRO BUDI - Multi Kategori Kreatif Gemini AI
 # Cerpen • Cerpan • Puisi • Pentigraf • Pantun • Naskah Drama
 # API KEY BARU ANDA SUDAH SAYA MASUKKAN LANGSUNG!
 # ====================================================
@@ -16,7 +16,7 @@ API_KEY = "AIzaSyAGNls_VBvYUPJp5ZeYd8NGecqtaTiUUyA"
 # MODEL YANG PASTI JALAN HARI INI (November 2025)
 MODEL_NAME = "gemini-2.5-flash"   # <--- INI YANG BARU & PASTI JALAN HARI INI!
 
-print("🔄 StoryBuddy sedang menginisialisasi koneksi Gemini AI...")
+print("🔄 SASTRO BUDI sedang menginisialisasi koneksi Gemini AI...")
 
 # Inisialisasi Klien Gemini (kode lama tetap utuh)
 try:
